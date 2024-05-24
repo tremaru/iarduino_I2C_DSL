@@ -1,5 +1,5 @@
 //	Библиотека для работы с датчиком освещенности, люксметром, I2C-flash для Arduino: https://iarduino.ru/shop/Sensory-Datchiki/datchik-osveschennosti-lyuksmetr-i2c-trema-modul-v2-0.html
-//  Версия: 1.0.3
+//  Версия: 1.0.4
 //  Последнюю версию библиотеки Вы можете скачать по ссылке: https://iarduino.ru/file/517.html
 //  Подробное описание функций бибилиотеки доступно по ссылке: https://wiki.iarduino.ru/page/DSL-trema-i2c/
 //  Библиотека является собственностью интернет магазина iarduino.ru и может свободно использоваться и распространяться!
